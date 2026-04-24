@@ -4,7 +4,7 @@
 
 Me chamo João Pedro Campolina Rodrigues e tenho 19 anos. Concluí o ensino médio no CEFET-MG, com o curso técnico em Redes de Computadores. Atualmente, estou cursando Ciência da Computação na UFLA. Sou um amante de tecnologias como automação com IA e desenvolvimento de sistemas. 
 
-<a href="www.linkedin.com/in/joão-pedro-campolina-rodrigues">
+<a href="www.linkedin.com/in/joao-pedro-campolina-rodrigues">
         <img 
             alt="Link Linkedin" 
             title="Linkedin" 
