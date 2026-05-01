@@ -78,7 +78,7 @@ Me chamo João Pedro Campolina Rodrigues e tenho 19 anos. Concluí o ensino méd
       align="left" 
       alt="GitHub Stats" 
       height="160" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-Devr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joao-Devr&theme=tokyonight&layout=compact"
   />
 
 </p>
